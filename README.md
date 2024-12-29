@@ -22,4 +22,4 @@ Si bien, tal vez el nombre de los grupos no es muy acertado, es algo en lo que s
 
 Ésta es la gráfica que se obtuvo al final:
 
-![Portada_Clus_Mall](https://user-images.githubusercontent.com/120142476/208344995-3f97e684-0d25-4dd5-93d1-cbdfadc1df34.PNG)
+![Portada_Clus_Mall](https://github.com/big-gio/01.Clustering-Km-Mall_Customers/blob/main/Archivos/Portada_Clus_Mall.PNG)
