@@ -4,6 +4,8 @@
 
 Se analizó un conjunto de datos sobre los clientes de un centro comercial. Datos como: sexo, edad, ingresos, etc. Las observaciones no se encuentran etiquetadas y se les aplicó un modelo de aprendizaje no-supervisado para tratar de separarlos en grupos.
 
+Ver código en [jupyter notebook](https://github.com/big-gio/01.Clustering-Km-Mall_Customers/blob/main/01.Clustering-Km-Mall_Customers.ipynb)
+
 ## Obtención de los datos
 
 El archivo "Mall_Customer.csv" se descargó de la plataforma Kaggle.
